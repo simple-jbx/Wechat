@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/pages/personal/baseInformation.jsp=UTF-8
+encoding//src/annotation/Column.java=UTF-8
+encoding//src/controller/upLoadServlet.java=UTF-8
+encoding//src/service/YHService.java=UTF-8
+encoding//src/service/commonService.java=UTF-8
+encoding//src/utils/DataBaseUtil.java=UTF-8
+encoding//src/utils/StringUtils.java=UTF-8
